@@ -1,0 +1,5 @@
+{
+  "appId": "com.example.app",
+  "appName": "capacitor-canvas-bug",
+  "webDir": "dist"
+}
